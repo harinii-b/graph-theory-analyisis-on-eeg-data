@@ -163,9 +163,9 @@ This analysis framework is designed for:
 ## References
 
 
-## Author
+## Authors
 
-Divya Eshwar, Jeevana Reddy, Harini B, Greeshma DH
+Divya Eshwar, Jeevana Reddy, Harini B, Greeshma D H, Dr Surabhi Narayan
 
 ## License
 
